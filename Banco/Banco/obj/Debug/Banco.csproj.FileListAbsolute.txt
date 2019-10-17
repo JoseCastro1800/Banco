@@ -1,0 +1,7 @@
+C:\Users\karla\OneDrive\Desktop\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\karla\OneDrive\Desktop\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\karla\OneDrive\Desktop\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\karla\OneDrive\Desktop\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\karla\OneDrive\Desktop\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Desktop\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\karla\OneDrive\Desktop\Banco\Banco\obj\Debug\Banco.pdb
